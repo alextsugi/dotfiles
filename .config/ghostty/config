@@ -1,0 +1,18 @@
+theme = iceberg-dark
+font-family = FiraCode Nerd Font
+font-size = 17
+window-save-state = always
+background-opacity = 0.7
+background-blur-radius = 10
+
+keybind = super+alt+right=next_tab
+keybind = super+alt+left=previous_tab
+keybind = super+t=new_window
+
+keybind = super+ctrl+h=new_split:down
+keybind = super+ctrl+v=new_split:right
+keybind = super+shift+h=goto_split:left
+keybind = super+shift+j=goto_split:bottom
+keybind = super+shift+k=goto_split:top
+keybind = super+shift+l=goto_split:right
+
